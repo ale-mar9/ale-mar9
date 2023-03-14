@@ -4,6 +4,8 @@
     <img width="500px" src="https://thumbs.gfycat.com/JauntyScrawnyKitten-size_restricted.gif" alt="">
 </p>
 <br>
+<p align="center"><img width="50px" src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/visual-studio-code.gif" alt=""></p>
+<p align="center"><img width="50px" src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa" alt=""></p>
 <h2>Sobre mi</h2>
 <h3>
     <ul>
