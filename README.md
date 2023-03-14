@@ -1,7 +1,7 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=4000&pause=500&color=EB6262&center=true&vCenter=true&multiline=true&repeat=false&width=510&height=120&lines=Bienvenido+a+mi+perfil!+%F0%9F%91%8B%F0%9F%8F%BB;Me+llamo+Alejandra+Diaz;Desarrolladora+Web+" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=500&color=EB6262&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=120&lines=Hola!+Me+llamo+Alejandra+Diaz+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Desarrolladora+Web;Fronted" alt="Typing SVG" /></a></p>
 <br>
 <p align="center">
-    <img width="600px" src="https://thumbs.gfycat.com/JauntyScrawnyKitten-size_restricted.gif" alt="">
+    <img width="500px" src="https://thumbs.gfycat.com/JauntyScrawnyKitten-size_restricted.gif" alt="">
 </p>
 <br>
 <h2>Sobre mi</h2>
