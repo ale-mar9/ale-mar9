@@ -1,11 +1,10 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=500&color=EB6262&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=120&lines=Hola!+Me+llamo+Alejandra+Diaz+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Desarrolladora+Web;Fronted" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&size=30&pause=1000&color=04706A&center=true&vCenter=true&width=550&lines=Hola!+Mi+nombre+es+Alejandra+Diaz;Soy+Desarrolladora+Web+fronted;Bienvenid%40+a+mi+pagina" alt="Typing SVG" /></a></p>
 <br>
 <p align="center">
-    <img width="500px" src="https://thumbs.gfycat.com/JauntyScrawnyKitten-size_restricted.gif" alt="">
+    <img width="500px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="">
 </p>
 <br>
-<p align="center"><img width="50px" src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/visual-studio-code.gif" alt=""></p>
-<p align="center"><img width="50px" src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa" alt=""></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&size=30&duration=3000&pause=1000&color=FF6050&center=true&vCenter=true&width=200&lines=HTML;CSS;JavaScript;SASS;Tailwind;Wordpress" alt="Typing SVG" /></a></p>
 <h2>Sobre mi</h2>
 <h3>
     <ul>
